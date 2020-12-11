@@ -1,0 +1,434 @@
+    .Rejoice_logo{
+    position: absolute;
+    width: 43px;
+    height: 42px;
+    left: 40px;
+    top: 14px;
+    }
+    .header{
+        background: rgb(42, 42, 77);
+        position: absolute;
+        width: 1349px;
+        height: 100px;
+        left: 0px;
+        top: 0px;
+    }
+    .PORTOFOLIO{
+    position: absolute;
+    width: 88px;
+    height: 23px;
+    left: 400px;
+    top: 20px;
+    }
+    .PORTOFOLIO{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    }
+    .PORTOFOLIO{
+    color: #EE7E17;
+    }
+    .RESUME{
+        position: absolute;
+        width: 78px;
+        height: 23px;
+        left: 590px;
+        top: 20px;
+        }
+    .RESUME{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    }
+    .RESUME{
+    color: #EE7E17;
+    }
+    .ABOUT{
+    position: absolute;
+    width: 78px;
+    height: 23px;
+    left: 750px;
+    top: 20px;
+    }
+    .ABOUT{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    }
+    .ABOUT{
+    color: #EE7E17;
+        }
+    .BLOG{
+    position: absolute;
+    width: 78px;
+    height: 23px;
+    left: 900px;
+    top: 20px;
+    }
+    .BLOG{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    }
+    .BLOG{
+    color: #EE7E17;
+        }
+    .CONTACT{
+    position: absolute;
+    width: 78px;
+    height: 23px;
+    left: 1030px;
+    top: 20px;
+    }
+    .CONTACT{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    }
+    .CONTACT{
+    color: #EE7E17;
+        }
+    .div_1{
+        position: absolute;
+        width: 200px;
+        height: 190px;
+        left: 30px;
+        top: 274px;
+    }
+    .div_1{
+        font-family: Roboto Condensed;
+        font-style: normal;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 50px;
+        text-shadow:5px 2px 3px green;
+        text-indent: 5px;
+    }
+    
+    .div_1{
+    background: #FFFFFF;
+        }
+    .Pass{
+    position: absolute;
+    width: 669px;
+    height: 401px;
+    left: 350px;
+    top: 590px;
+    }
+    .Pass{
+    background: #FFFFFF;
+    }
+   .title_0{
+    position: absolute;
+    width: 611px;
+    height: 45px;
+    left: 130px;
+    top: 20px;
+   }
+   .title_0{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+   }
+   .title_0{
+    color: #000000;
+   } 
+   .sec_0{
+    position: absolute;
+    width: 615px;
+    height: 171px;
+    left: 29px;
+    top: 120px;
+   }
+   .sec_0{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+   }
+   .sec_0{
+    color: #000000;
+    
+    
+   }
+    .div_2{
+        position: absolute;
+        width: 1349px;
+        height: 780px;
+        left: 0px;
+        top: 915px;
+    }
+    .div_2{
+        background: rgba(196, 196, 196, 0.5);
+    }
+    .title_1{
+        position: absolute;
+        width: 496px;
+        height: 70px;
+        left: 560px;
+        top: 10px;
+    }
+        .title_1{
+        font-family: Roboto Condensed;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 29px;
+        line-height: 34px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        }
+        .title_1{
+        color: #000000;
+
+
+    }
+    .image_1{
+    position: absolute;
+    width: 176px;
+    height: 189px;
+    left: 300px;
+    top: 140px;
+    }
+    .image_2{
+        position: absolute;
+        width: 197px;
+        height: 189px;
+        left: 600px;
+        top: 140px;
+    }
+    .image_3{
+        position: absolute;
+        width: 177px;
+        height: 180px;
+        left: 900px;
+        top: 140px;
+    }
+    .image_4{
+        position: absolute;
+        width: 176px;
+        height: 189px;
+        left: 300px;
+        top: 400px;
+    }
+    .image_5{
+        position: absolute;
+        width: 177px;
+        height: 189px;
+        left: 600px;
+        top: 400px;
+    }
+    .image_6{
+        position: absolute;
+        width: 176px;
+        height: 189px;
+        left: 900px;
+        top: 400px;
+    }
+    .footer{
+        position: absolute;
+        width: 1349px;
+        height: 370px;
+        left: 0px;
+        top: 1695px;
+    }
+    .footer{
+        background: #000000;
+            }
+    .footer_title{
+        position: absolute;
+        width: 498px;
+        height: 61px;
+        left: 500px;
+        top: 10px;
+    }
+    .footer_title{
+        font-family: Roboto Condensed;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 29px;
+        line-height: 34px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .footer_title{
+        color: #FFFFFF;
+    }
+    .button_1{
+        font-family: Roboto Condensed;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-decoration: none;
+        white-space: pre;
+    }
+    .button_1{
+        color: rgba(255, 255, 255, 0.8);
+    }
+    .button_1{
+        position: absolute;
+        width: 105px;
+        height: 32px;
+        left: 440px;
+        top: 130px;
+    }
+    .button_1{
+        border: 2px solid rgba(238, 126, 23, 0.6);
+        box-sizing: border-box
+    }
+    .button_2{
+    position: absolute;
+    width: 75px;
+    height: 35px;
+    left: 620px;
+    top: 130px;
+    }
+    .button_2{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    white-space: pre;
+    }
+    .button_2{
+color: rgba(255, 255, 255, 0.8);
+    }
+    .button_2{
+        border: 2px solid rgba(238, 126, 23, 0.6);
+        box-sizing: border-box;
+    }
+    .button_3{
+        position: absolute;
+width: 60px;
+height: 35px;
+left: 790px;
+top: 130px;
+    }
+    .button_3{
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration: none;
+white-space: pre;
+    }
+    .button_3{
+color: rgba(255, 255, 255, 0.8);
+border: 2px solid rgba(238, 126, 23, 0.6);
+        box-sizing: border-box;
+    }
+    .button_4{
+        position: absolute;
+        width: 50px;
+        height: 35px;
+        left: 930px;
+        top: 130px;
+    }
+    .button_4{
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration: none;
+white-space: pre;
+    }
+    .button_4{
+        color: rgba(255, 255, 255, 0.8);
+        border: 2px solid rgba(238, 126, 23, 0.6);
+        box-sizing: border-box;
+    }
+    .Social_1{
+        position: absolute;
+        width: 30px;
+        height: 31px;
+        left: 610px;
+        top: 190px;
+    }
+    .Social_1{
+        color: rgba(255, 255, 255, 0.25);
+    }
+    .Social_2{
+    position: absolute;
+    width: 30px;
+    height: 31px;
+    left: 720px;
+    top: 190px;
+    }
+    .Social_2{
+        color: rgba(255, 255, 255, 0.25);
+    }
+    .copyright{
+        position: absolute;
+        width: 487px;
+        height: 37px;
+        left: 570px;
+        top: 330px;
+    }
+    .copyright{
+        font-family: Roboto Condensed;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        }
+        .copyright{
+        color: rgba(255, 255, 255, 0.47);
+        }
