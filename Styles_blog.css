@@ -2,7 +2,7 @@
         position: absolute;
         top:0px;
         left:0px;
-        width: 100%;
+        width: 1349px;
         height: 100px;
         background: linear-gradient(35deg, #CCFfFF, #FFCCCC);
     }
@@ -127,7 +127,7 @@
             top: 820px;
             left: 400px;
             width: 600px;
-            height: 500px;
+            height: 550px;
         }
         #flname {
             font-family: Roboto Condensed;
@@ -138,14 +138,35 @@
             display: flex;
             align-items: center;
             color: #000000;   
-        }
-        .flname {
-            width: 150px;
-            height: 32px;
+        
+            width: 280px;
+            height: 20px;
             left: 81px;
             top: 558px;
         }
-        
+        .flname {
+            width: 100px;
+            height: 25px;
+            left: 81px;
+            top: 558px;
+        }
+        .address-num {
+            position: absolute;
+            width: 900px;
+            height: 67px;
+            left: 400px;
+            top: 1330px;
+
+            font-family: Roboto Condensed;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 19px;
+            line-height: 34px;
+            display: flex;
+            
+            color: #000000;
+        }
+
 
 
     .footer{
